@@ -7,6 +7,8 @@ This came about because of the amount of issues people have been having and I wa
 to create a unified place for placing install scripts.
 
 ### [Ubuntu Install Scripts](UbuntuLutrisInstall.sh)
+This Install script will Install Lutris on any Ubuntu System.
 
-
+### [Ubuntu Uninstall Scripts](UbuntuLutrisUninstall.sh)
+This Script Uninstalls Lutris from any Ubuntu system
 <!-- Remember when you use Linux Don't Panic!-->
