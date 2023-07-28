@@ -6,7 +6,7 @@ This was designed to place all install scripts in the same place for installing 
 This came about because of the amount of issues people have been having and I wanted,
 to create a unified place for placing install scripts.
 
-### Ubuntu Install Scripts
+### [Ubuntu Install Scripts](UbuntuLutrisInstall.sh)
 
 
 <!-- Remember when you use Linux Don't Panic!-->
