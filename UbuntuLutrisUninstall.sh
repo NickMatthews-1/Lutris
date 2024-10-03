@@ -16,4 +16,4 @@ sudo apt update
 sudo apt upgrade
 
 # When you use Linux don't Panic!
-# Copright Nick Matthews 2023 GPLv3 
+# Copright Nick Matthews 2024 GPLv3 
