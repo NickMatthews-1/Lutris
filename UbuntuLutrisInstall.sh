@@ -7,10 +7,10 @@ sudo apt update
 sudo apt upgrade
 
 # This downloads the deb package needed from GitHub
-wget https://github.com/lutris/lutris/releases/download/v0.5.13/lutris_0.5.13_all.deb
+wget https://github.com/lutris/lutris/releases/download/v0.5.17/lutris_0.5.17_all.deb
 
 # This installs the deb package for Lutris
-sudo dpkg -i lutris_0.5.13_all.deb
+sudo dpkg -i lutris_0.5.17_all.deb
 
 # This updates your system
 sudo apt update
@@ -19,4 +19,4 @@ sudo apt update
 sudo apt upgrade
 
 # When you use Linux don't Panic!
-# Copright Nick Matthews 2023 GPLv3 
+# Copright Nick Matthews 2024 GPLv3 
