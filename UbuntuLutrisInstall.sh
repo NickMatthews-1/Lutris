@@ -7,10 +7,10 @@ sudo apt update
 sudo apt upgrade
 
 # This downloads the deb package needed from GitHub
-wget https://github.com/lutris/lutris/releases/download/v0.5.17/lutris_0.5.17_all.deb
+wget https://github.com/lutris/lutris/releases/download/v0.5.18/lutris_0.5.18_all.deb
 
 # This installs the deb package for Lutris
-sudo dpkg -i lutris_0.5.17_all.deb
+sudo dpkg -i lutris_0.5.18_all.deb
 
 # This updates your system
 sudo apt update
